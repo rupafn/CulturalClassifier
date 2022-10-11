@@ -1,5 +1,5 @@
 # CulturalClassifier Features
-This are feature description of low and high level audio features my Thesis work for Master on Engineering.
+Content below describes low and high level audio features of my Thesis work for Master on Engineering.
 ## Features
 
 ### Low-level features
